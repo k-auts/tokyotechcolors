@@ -2,6 +2,8 @@
 
 ## Original
 
+These colors are based on Tokyo Tech Template. You can see them [here](https://www.titech.ac.jp/english/public-relations/about/overview/logo/color).
+
 | Name | HEX | RGB | NOTE|
 | ---- | --- | --- | --- |
 | **Main colors** | | |  
